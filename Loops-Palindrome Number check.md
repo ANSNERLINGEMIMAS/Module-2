@@ -31,8 +31,8 @@ else:
     print(num, "is not a palindrome")
 ```
 ## Output
-Enter a number: 121  
-121 is a palindrome
+![Screenshot 2025-05-13 182103](https://github.com/user-attachments/assets/68befcf1-4837-4213-a5cd-00eb783b66be)
+
 
 
 ## Result
