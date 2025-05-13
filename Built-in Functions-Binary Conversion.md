@@ -16,7 +16,8 @@ print(binary)
 ```
 
 ## Output
-0b10000
+![Screenshot 2025-05-13 181032](https://github.com/user-attachments/assets/e70dd9f0-ae85-4dc9-9c93-e6573d30a31e)
+
 
 
 ## Result
