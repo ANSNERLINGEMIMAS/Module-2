@@ -22,9 +22,8 @@ result(x, y)
 ```
 
 ## Output
-Enter the first number: 10  
-Enter the second number: 3  
-Modulo result: 1
+![Screenshot 2025-05-13 181202](https://github.com/user-attachments/assets/a1e607ff-eca1-45f5-904f-cbb0752cd6a5)
+
 
 
 ## Result
